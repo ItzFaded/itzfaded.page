@@ -1,2 +1,2 @@
-# www.itzfaded.com
+# https://www.itzfaded.com
 webpage
